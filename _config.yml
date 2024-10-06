@@ -1,0 +1,20 @@
+plugins:
+  - jekyll-sitemap
+
+# SEO Stuff
+author: Fedired
+description: Fedired Hub es un sitio informativo vinculado a Fedired, la instancia oficial de Fedired.
+lang: es
+locale: es_ES
+url: "https://hub.fedired.com"
+git_web_base: https://github.com/fedired-dev/hub/blob/HEAD/
+baseurl: ""
+permalink: :title
+
+# RSS feeds
+feed:
+  posts_limit: 20
+
+# Netlify redirects
+include:
+  - _redirects

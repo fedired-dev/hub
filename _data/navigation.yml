@@ -1,0 +1,26 @@
+- name: Inicio
+  link: /
+
+- name: Acerca de
+  link: /about/
+
+- name: Código de conducta
+  link: /coc/
+
+- name: Apoyanos
+  link: /support/
+
+- name: Finanzas
+  link: /finances/
+
+- name: Contacto
+  link: /contact/
+
+- name: El equipo
+  link: /team/
+
+- name: Estado del servicio
+  link: https://status.fedired.com
+
+- name: Documentación
+  link: https://docs.fedired.com

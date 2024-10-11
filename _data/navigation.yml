@@ -16,9 +16,6 @@
 - name: Contacto
   link: /contact/
 
-- name: El equipo
-  link: /team/
-
 - name: Estado del servicio
   link: https://status.fedired.com
 

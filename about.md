@@ -16,7 +16,7 @@ Somos curiosos por naturaleza, siempre buscando aprender cosas nuevas. Aunque no
 
 - Mantener Fedired, una red social que busca ofrecer una experiencia segura y respetuosa con la privacidad dentro del fediverso.
 - Bifurcar y personalizar el FediredUI Theme, añadiendo nuestra propia visión al diseño y la funcionalidad de la plataforma.
-- **Trabajar en Fedired Software**, una red social de código abierto basada en Misskey que forma parte del fediverso, utilizando el protocolo ActivityPub. Puedes encontrar más información y el repositorio en [Fedired Software](https://github.com/fedired-dev/fedired).
+- **Trabajar en Fedired Software**, una red social de código abierto basada en FireFish que forma parte del fediverso, utilizando el protocolo ActivityPub. Puedes encontrar más información y el repositorio en [Fedired Software](https://github.com/fedired-dev/fedired).
 
 **Fedired** es una plataforma de redes sociales descentralizada y de código abierto. Aprovechando el protocolo ActivityPub, Fedired ofrece a los usuarios la capacidad de comunicarse y compartir contenido de manera segura y privada. En un mundo donde las redes sociales centralizadas comprometen la privacidad de los datos, Fedired se erige como una alternativa, empoderando a los usuarios para que tengan el control total de su experiencia social en línea.
 
